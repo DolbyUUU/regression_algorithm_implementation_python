@@ -1,6 +1,6 @@
 # Regression algorithm implementaions from scratch with python
 
-Four popular regression algorithms:  
+regression_algorithms.py implements four popular regression algorithms:  
 
 - (1) least-squares (LS)  
 - (2) regularized LS (RLS)  = L2-regularized LS
